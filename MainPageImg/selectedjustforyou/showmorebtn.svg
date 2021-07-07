@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="66" viewBox="0 0 143 66">
+  <g id="Show_more_-_button" data-name="Show more - button" transform="translate(0 -0.039)">
+    <g id="Rectangle_376" data-name="Rectangle 376" transform="translate(0 0.039)" fill="#fff" stroke="#d8d8d8" stroke-width="1">
+      <rect width="143" height="66" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="142" height="65" rx="32.5" fill="none"/>
+    </g>
+    <text id="Show_more" data-name="Show more" transform="translate(32 37.039)" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">SHOW MORE</tspan></text>
+  </g>
+</svg>

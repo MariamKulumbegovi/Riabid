@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="72" viewBox="0 0 161 72">
+  <g id="Next_Back_button" data-name="Next / Back button" transform="translate(0 0.495)">
+    <rect id="Rectangle_561" data-name="Rectangle 561" width="72" height="72" transform="translate(0 -0.495)" fill="#fff" opacity="0.12"/>
+    <rect id="Rectangle_562" data-name="Rectangle 562" width="72" height="72" transform="translate(89 -0.495)" fill="#fff"/>
+    <path id="noun_Arrow_Left_2682937" data-name="noun_Arrow Left_2682937" d="M10.837,0,1.8,9.044,0,10.845l1.8,1.8,9.036,9.032,1.8-1.8L4.875,12.119H24.943V9.572H4.875L12.638,1.8Z" transform="translate(24.011 25.321)" fill="#fff"/>
+    <path id="noun_Arrow_Left_2682937-2" data-name="noun_Arrow Left_2682937" d="M10.837,21.679,1.8,12.634,0,10.833l1.8-1.8L10.837,0l1.8,1.8L4.875,9.56H24.943v2.547H4.875l7.763,7.767Z" transform="translate(137.954 47) rotate(180)"/>
+  </g>
+</svg>
