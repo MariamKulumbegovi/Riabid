@@ -74,6 +74,9 @@ body {
     font-family: Poppinssemibold;
 
 }
+.a-li:hover {
+    color: rgb(251, 176, 59);
+}
 .li-s {
     justify-content: space-between;
     max-width: 600px;
